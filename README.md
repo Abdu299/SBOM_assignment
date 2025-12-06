@@ -43,9 +43,7 @@ python3 sbom.py /path/to/projects/
 
 - Support for `package-lock.json` (transitive dependencies)
 - Advanced pip parsing and license metadata
-- Optional HTML or PDF reporting
 - Optional flags ( `--no-git`, `--json-only`, `--csv-only`)
-- HTML or PDF formatted reports for easier visualization
 
 
 ## Unit Testing
